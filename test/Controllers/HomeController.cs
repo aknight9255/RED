@@ -11,7 +11,7 @@ namespace test.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-
+            //HI AMANDA!!!!
             return View();
         }
     }
